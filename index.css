@@ -1,0 +1,84 @@
+.top-line{
+    background-color:#ffcab0;
+    text-align:center;
+    padding:15px;
+    color:#c24d2c;
+}
+
+.navbar{
+    padding:0px;
+    position: sticky;
+}
+
+.logo{
+    height:100px;
+    width:220px;
+    margin-right:50px;
+    margin-left:20px;
+}
+
+.nav-link{
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:18px;
+    margin-right:15px;
+}
+
+.icons-container{
+  margin-left:230px;
+}
+
+.icon{
+    height:30px;
+    width:30px;
+    margin-right:13px;
+    font-size:20px;
+}
+
+
+.first-section{
+    background-color:#fde9c9;
+    padding:20px;
+    padding-bottom:20px;
+}
+
+.dress-image{
+    height:500px;
+    width:360px;
+}
+
+.collection{
+    background-color:#fff;
+    padding:10px;
+    width:360px;
+    position: absolute;
+    top:450px;
+    right:550px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.heading{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:30px;
+    text-align:center;
+    padding:50px;
+    padding-bottom:18px;
+}
+
+.para{
+    font-family:"Brush Script MT";
+    text-align:center;
+    font-size:24px;
+}
+
+.card{
+    height:300px;
+    width:200px;
+    background-color:#eeeeee;
+    
+}
+
+.photo{
+    height: 200px;
+    width:200px;
+}
